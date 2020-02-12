@@ -2,21 +2,30 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/02/12 17:26:00
 status: publish
-author: AlanDecode
+author: Anony
 categories: 
-  - Maverick
-  - Dev
+  - 个人
 tags: 
-  - theme
+  - 简介
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+> 欢迎来到我的小站呀，很高兴遇见你！🤝
 
+## 🏠 关于本站
 
-## Contact
+三刀魚，其实没什么含义，主要在创建博客的时候，忽然想到三文鱼和秋刀鱼，所以天马行空地将其组合，又名三刀魚，各位小伙伴多多关照！
 
-Email: hi#imalan.cn (replace # with @)
+## 🙄 博主是谁
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+95后，一个理性男孩，有时候又很执拗，攒钱小能手，从一九开始经济独立，希望自己能在四十岁之前实现财富自由，喜欢生活有条理性，目前大四在读，即将迎来职场生活
+
+## ⛹ 兴趣爱好
+
+追剧（没事做就看看剧）、折腾（就喜欢捣鼓一些玩意，有趣就好）、撰文（记录生活，留下自己的印记）、健身（很久之前立下的 Flag）
+
+## 📬 联系我呀
+
+- 邮件：1046880355@qq.com
+- 微信：[Anony]()

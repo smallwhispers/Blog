@@ -6,11 +6,11 @@ date: 2020-02-11 20:34
 status: publish
 author: Anony
 categories: 
-  - 默认分类
+  - 折腾
 tags: 
-  - 博客
-  - GitHub
-excerpt: Hello World!
+  - iOS
+  - 越狱
+excerpt: 疑难解惑，不是教程！
 ---
 ### 起因
 
@@ -23,11 +23,12 @@ excerpt: Hello World!
 
 ### 准备
 
-- [x] **环境：**Windows
+- **环境：**Windows
 
-- [x] **虚拟机：**VMware 15.5 Pro （已上传至云盘 [点击下载](https://pukobaggstuacnz-my.sharepoint.com/personal/jhx520_qqu_me/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fjhx520%5Fqqu%5Fme%2FDocuments%2FVMware%20MacOS%2Fvmware%2Dpro15%2Ezip)）
-- [x] **镜像：**ubuntu 18.03 （推荐使用网易开源镜像站 [点击下载](http://mirrors.163.com/ubuntu-releases/18.04/ubuntu-18.04.3-desktop-amd64.iso)）
-- [x] **越狱工具：**Checkra1n （[点击跳转](https://checkra.in/)）
+- **虚拟机：**VMware 15.5 Pro （已上传至云盘 [点击下载](https://pukobaggstuacnz-my.sharepoint.com/personal/jhx520_qqu_me/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fjhx520%5Fqqu%5Fme%2FDocuments%2FVMware%20MacOS%2Fvmware%2Dpro15%2Ezip)）
+
+- **镜像：**ubuntu 18.03 （推荐使用网易开源镜像站 [点击下载](http://mirrors.163.com/ubuntu-releases/18.04/ubuntu-18.04.3-desktop-amd64.iso)）
+- **越狱工具：**Checkra1n （[点击跳转](https://checkra.in/)）
 
 ### 疑难
 
