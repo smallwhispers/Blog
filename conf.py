@@ -19,20 +19,25 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "秋刀鱼"
+site_name = "三刀魚"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Anony"
 email = "1046880355@qq.com"
-author_homepage = "https://janony.tk"
+author_homepage = "http://anony.pp.ua"
 description = "你保护世界，我保护你。"
-key_words = ['科技', 'Anony', '心得', 'Wiki']
+key_words = ['三刀魚', '科技', 'Anony', '学习', 'Wiki']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "主页",
+        "name": "三刀魚",
         "url": "http://anony.pp.ua",
         "brief": "🏄‍ Go My Own Way."
+    },
+    {
+        "name": "小游戏",
+        "url": "https://weigame.pp.ua",
+        "brief": "放松小游戏"
     },
     {
         "name": "云盘",
@@ -84,3 +89,10 @@ head_addon = r'''
 footer_addon = ''
 
 body_addon = ''
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "<4ESxTDKGLBD0gDHamAlyhiNs-gzGzoHsz>",
+    "appKey": "<ocBnCwifxc3twxvgIsNbDMal>",
+}
