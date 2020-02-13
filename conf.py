@@ -26,18 +26,18 @@ author = "Anony"
 email = "1046880355@qq.com"
 author_homepage = "https://janony.tk"
 description = "你保护世界，我保护你。"
-key_words = ['科技', 'Anony', '心得', 'blog']
+key_words = ['科技', 'Anony', '心得', 'Wiki']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
+        "name": "主页",
+        "url": "http://anony.pp.ua",
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "云盘",
+        "url": "https://onedrive.pp.ua",
+        "brief": "Anony的云盘"
     }
 ]
 nav = [
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/Cv2Ln",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/jhx520",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/2975939221/",
         "icon": "gi gi-weibo"
     }
 ]
