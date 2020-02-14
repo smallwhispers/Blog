@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checkra1n 越狱指南
-slug: my-first-awesome-post
+slug: Checkra1n
 date: 2020-02-11 20:34
 status: publish
 author: Anony
@@ -18,8 +18,8 @@ excerpt: 疑难解惑，不是教程！
 
 ### 计划
 
-- **原本：**U盘 + macOS 10.14
-- **现在：**Windows + 虚拟机
+- **原本：**<u>U盘 + macOS 10.14</u>
+- **现在：**<u>Windows + 虚拟机</u>
 
 ### 准备
 
@@ -54,4 +54,4 @@ excerpt: 疑难解惑，不是教程！
 
 ### 小结
 
-其实两者并没有什么效率可言，纯属个人习惯，且不随身携带 U盘，所以还是喜欢直接进入 Windows，这样操作起来也方便些，截至写稿前，Checkra1n Win 并没有发布。
+其实两者并没有什么效率可言，纯属个人习惯，且不随身携带 U盘，所以还是喜欢直接进入Windows，这样操作起来也方便些，<u>截至写稿前，Checkra1n Win 并没有发布。</u>
