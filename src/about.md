@@ -28,4 +28,4 @@ tags:
 ## 📬 联系我呀
 
 - 邮件：1046880355@qq.com
-- 微信：![Anony](./assets/wechat.jpg)
+- 微信：[Anony](![](./assets/wechat.jpg))
