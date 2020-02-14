@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "三刀魚"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-02-09T16:51+08:00"
 author = "Anony"
 email = "1046880355@qq.com"
 author_homepage = "http://anony.pp.ua"
@@ -84,11 +84,8 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+'''
 
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_page_pv">
-    <span id="busuanzi_value_page_pv"></span>阅读
-</span>'''
 footer_addon = ''
 
 body_addon = ''
@@ -96,6 +93,8 @@ body_addon = ''
 valine = {
     "enable": True,
     "el": '#vcomments',
+    "visitor": 'true',
+    "avatar":'mp',
     "appId": "uM4TdSOqBxnHFm3gcy0VRcVC-gzGzoHsz",
     "appKey": "S8PiDx66GTKdtjwmQ5dMnCK6",
 }
