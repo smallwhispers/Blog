@@ -84,8 +84,11 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-'''
 
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_page_pv">
+    <span id="busuanzi_value_page_pv"></span>阅读
+</span>'''
 footer_addon = ''
 
 body_addon = ''
