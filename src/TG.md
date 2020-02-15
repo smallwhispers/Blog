@@ -9,7 +9,7 @@ categories:
   - 折腾
 tags: 
   - 解锁
-  - 教程
+  - TG
 excerpt: 包括 iOS、Android、Mac、Windows
 ---
 
