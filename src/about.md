@@ -29,5 +29,3 @@ tags:
 
 - 邮件：1046880355@qq.com
 - 微信：[Anony](https://cdn.jsdelivr.net/gh/smallwhispers/Wiki@gh-pages/archives/assets/56e8cbb397884ff7cabbce8651adf046.jpg)
-
-![](../assets/01.png)
