@@ -65,7 +65,7 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
+        "name": "Twitte",
         "url": "https://twitter.com/Cv2Ln",
         "icon": "gi gi-twitter"
     },
